@@ -1,6 +1,6 @@
-
-    <div class="flex space-evenly wrap">
-        <form method="post" action="">    
+<div class="flex space-evenly wrap">
+        <form method="post" action="">
+            <fieldset>
                 <legend>Inscription</legend>
                 <div class="mb-3">
                     <label for="Nom" class="form-label">Nom</label>
@@ -27,6 +27,4 @@
                 </div>
             </fieldset>
         </form>
-    </div>
-    
-    
+        </div>

@@ -1,4 +1,4 @@
-        <div class="flex space-evenly wrap">
+<div class="flex space-evenly wrap">
             <form method="post" action="">
                 <fieldset>
                     <legend>Se connecter</legend>
@@ -21,4 +21,3 @@
             </form>
   
         </div>
-    
